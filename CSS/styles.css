@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
@@ -20,6 +20,16 @@ h1 {
   text-shadow: 5px 0 #232931;
   font-size: 8rem;
   color: #DF7861;
+}
+h2 {
+  margin : 5px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 1px 0 #232931;
+  font-size: 2rem;
+  color: #DF7861;
+  text-align: center;
+  display: inline-block;
+  padding: 30px;
 }
 
 p {
@@ -79,3 +89,4 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
